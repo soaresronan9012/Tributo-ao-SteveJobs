@@ -1,0 +1,72 @@
+body {
+    background-color: rgb(162, 164, 167);
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.nome, .funçao{
+    display: flex;
+    justify-content: center;
+}
+
+.nome{
+    margin-bottom: 40px;
+    margin-top: 30px;
+    font-size: 40px;
+    
+}
+
+.funçao{
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+hr{
+    margin-bottom: 30px;
+}
+
+section{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.figura{
+    display: flex;
+    width: 510px;
+    height: 630px;
+    background-color: #ffffff;
+    justify-content: center;
+
+}
+
+figcaption{
+    margin-left: 150px;
+    margin-bottom: 30px;
+}
+
+.descrição{
+    width: 983px;
+    margin-bottom: 50px;
+}
+
+.rodapé{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.lista{
+    display: flex;
+    justify-content: center;
+    width: 983px;
+}
+
+
+
+
+
